@@ -13,7 +13,7 @@ package com.cn;
 public class T {
     public static void main(String[] args){
         String str = "aaaaaa";
-        String s222 = "bbb";
+        String hgl_eagle = "bbb";
         
     }
 }
